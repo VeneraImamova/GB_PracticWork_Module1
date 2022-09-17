@@ -48,6 +48,5 @@ string [] NewArray (string [] array)
             n++;
         }
     }
-    
     return newArray;
 }
